@@ -1,8 +1,8 @@
 # Titles
 
-1. **Title: Goodreads**
+1. **Netflix-Clone**
    
-2. **Title: Space Invader**
+2. **Snake**
 
 ## Group: Byte Bandits
 
